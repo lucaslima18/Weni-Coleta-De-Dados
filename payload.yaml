@@ -1,0 +1,42 @@
+informations:
+  api_token: "Token 7656871f739e609d91066afdf41442bbbc909fb5"
+
+#tire a # da funcionalidade que você deseja
+#caso tenha alguma dúvida sobre o preenchimento de algum campo consulte a docuementação da api
+functions: 
+    flows: 
+      spreadsheet_name: "analise_de_fluxos"
+      params:
+        uuid: ""
+        name: ""
+        type:  ""
+        archived: ""
+        labels: ""
+        expires: ""
+        runs: ""
+        results: ""
+        parent_refs: ""
+        created_on: ""
+        modified_on: ""
+    flow_starts:
+    fields:
+    contacts:
+    classifiers:
+    channel_evetns:
+    channels:
+    campaigns:
+    campaign_events:
+    flow_runs:
+    contacts_stats:
+    channel_stats:
+    runs:
+    messages:
+    labels:
+    groups:
+    globals:
+
+
+
+
+
+
